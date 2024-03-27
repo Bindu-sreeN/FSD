@@ -119,7 +119,7 @@ function App() {
         </div>
       </div>
       <div className="watermark">
-        <p>N.BINDU SREE`S</p>
+        <p>D.YOGITHA`S</p>
       </div>
     </div>
   );
